@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Use /registrar para poder se registrar e virar membro!"];
 
 
 let currentIndex = 0;
